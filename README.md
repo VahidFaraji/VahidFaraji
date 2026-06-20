@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Me
-With over **10 years of experience** in **electrical engineering**, **renewable energy**, and **data-driven problem-solving**, I have developed a strong foundation in solving complex problems using both traditional engineering methods and modern machine learning techniques. Inspired by Stanford’s courses, I am currently advancing my expertise through a Master’s program at Lund University, focusing on innovative applications of machine learning and data science in engineering.
+Electrical Power Engineer with a Machine Learning background, focused on applying data-driven modeling and time-series forecasting to power and energy-system problems. My work combines experience in power systems, grid operation, renewable energy integration, and simulation-based analysis with machine learning methods for large-scale electricity datasets.
 
 ---
 
@@ -23,12 +23,21 @@ With over **10 years of experience** in **electrical engineering**, **renewable 
 ---
 
 ## 🎓 Education
-- **M.Sc. in Machine Learning, Systems, and Control (2024–Present)**  
+- **M.Sc. in Machine Learning, Systems, and Control (2024–2026)**  
   Lund University, Sweden  
 - **M.Sc. in Electrical Engineering / Power Systems (2008–2011)**  
   Iran University of Science and Technology  
 - **B.Sc. in Electrical Engineering (2004–2008)**  
   Shahed University  
+
+---
+
+## 🌟 Interests
+- Machine Learning Applications in Power Systems and Energy Systems
+- Electricity Load and Energy Forecasting
+- Smart Grids and Renewable Integration
+- Time-Series Modeling
+- Data-Driven Decision Support for Energy Systems
 
 ---
 
@@ -39,18 +48,15 @@ With over **10 years of experience** in **electrical engineering**, **renewable 
 
 ---
 
-## 🛠 Skills
-- **Programming Languages**: Python, MATLAB  
-- **Tools**: DIgSILENT, LaTeX  
-- **Core Strengths**: Applied Machine Learning, Data Science, Power Systems Optimization  
+## 🛠 Tools and Technologies
 
----
+Python, MATLAB, LaTeX, Git
+pandas, NumPy, scikit-learn
+NeuralForecast, StatsForecast
+TensorFlow / PyTorch
+DIgSILENT Power Factory
+Data analysis, visualization, and modeling
 
-## 🌟 Interests
-- Machine Learning Applications in Power Systems  
-- Renewable Energy Technologies  
-- Deep Learning and Artificial Intelligence  
-- Data-Driven Solutions in Engineering  
 
 ---
 
