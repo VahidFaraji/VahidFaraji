@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm **Vahid Faraji**
 
-🌍 **Data Scientist | Electrical Engineer | Machine Learning Enthusiast**  
+🌍 **Machine Learning for Power Systems | Time-Series Forecasting | Smart Grids | Renewable Energy**  
 🎓 **M.Sc. Student in Machine Learning, Systems, and Control**  
 🎓 **M.Sc. in Electrical Engineering (Power Systems and Renewable Energies)**  
 📍 Lund University, Sweden  
